@@ -1,0 +1,27 @@
+.container{
+    width: 1600px;
+    margin:  0 auto;
+    padding: 20px;
+}
+
+
+.navar {
+    background-color: gray;
+    color: white
+    padding 10px;
+}
+
+.navbar ul{
+    list-style: none;
+    margin: 0 ;
+    padding: 0;
+    display: flex;
+    
+}
+
+.navbar a {
+    color: white;
+    padding: 14px 20px;
+    text-align: none;
+    text-align: center;
+}
